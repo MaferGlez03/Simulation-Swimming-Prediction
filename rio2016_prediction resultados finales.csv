@@ -1,0 +1,211 @@
+event,place,name,result,champion,first 3,position
+Men 200 Medley LCM Male,1,"HAGINO, Kosuke","PHELPS, Michael",FALSE,TRUE,FALSE
+Men 200 Medley LCM Male,2,"LOCHTE, Ryan","HAGINO, Kosuke",,TRUE,FALSE
+Men 200 Medley LCM Male,3,"PHELPS, Michael","WANG, Shun",,FALSE,FALSE
+Men 200 Medley LCM Male,4,"SETO, Daiya",,100,66.66666667,0
+Men 200 Medley LCM Male,5,"PEREIRA, Thiago",,,,
+Men 200 Medley LCM Male,6,"WANG, Shun",,,,
+Men 200 Medley LCM Male,7,"RODRIGUES, Henrique",,,,
+Men 200 Medley LCM Male,8,"FUJIMORI, Hiromasa",,,,
+Women 50 Freestyle LCM Female,1,"CAMPBELL, Cate","BLUME, Pernille",FALSE,FALSE,FALSE
+Women 50 Freestyle LCM Female,2,"SJOESTROEM, Sarah","MANUEL, Simone",,FALSE,FALSE
+Women 50 Freestyle LCM Female,3,"HALSALL, Fran","HERASIMENIA, Aliaksandra",,FALSE,FALSE
+Women 50 Freestyle LCM Female,4,"CAMPBELL, Bronte",,100,0,0
+Women 50 Freestyle LCM Female,5,"KROMOWIDJOJO, Ranomi",,,,
+Women 50 Freestyle LCM Female,6,"VANDERPOOL-WALLACE, Arianna",,,,
+Women 50 Freestyle LCM Female,7,"OTTESEN, Jeanette",,,,
+Women 50 Freestyle LCM Female,8,"KENNEDY, Madison",,,,
+Women 200 Freestyle LCM Female,1,"LEDECKY, Katie","LEDECKY, Katie",TRUE,TRUE,TRUE
+Women 200 Freestyle LCM Female,2,"SJOESTROEM, Sarah","SJOESTROEM, Sarah",,TRUE,TRUE
+Women 200 Freestyle LCM Female,3,"PELLEGRINI, Federica","MCKEON, Emma",,FALSE,FALSE
+Women 200 Freestyle LCM Female,4,"HEEMSKERK, Femke",,0,66.66666667,66.66666667
+Women 200 Freestyle LCM Female,5,"MCKEON, Emma",,,,
+Women 200 Freestyle LCM Female,6,"HOSSZU, Katinka",,,,
+Women 200 Freestyle LCM Female,7,"FRANKLIN, Missy",,,,
+Women 200 Freestyle LCM Female,8,"BONNET, Charlotte",,,,
+Men 100 Breaststroke LCM Male,1,"PEATY, Adam","PEATY, Adam",TRUE,TRUE,TRUE
+Men 100 Breaststroke LCM Male,2,"VAN DER BURGH, Cameron","VAN DER BURGH, Cameron",,TRUE,TRUE
+Men 100 Breaststroke LCM Male,3,"MURDOCH, Ross","MILLER, Cody",,FALSE,FALSE
+Men 100 Breaststroke LCM Male,4,"FRANCA SILVA, Felipe",,0,66.66666667,66.66666667
+Men 100 Breaststroke LCM Male,5,"TITENIS, Giedrius",,,,
+Men 100 Breaststroke LCM Male,6,"MILLER, Cody",,,,
+Men 100 Breaststroke LCM Male,7,"KOSEKI, Yasuhiro",,,,
+Men 100 Breaststroke LCM Male,8,"CORDES, Kevin",,,,
+Women 200 Backstroke LCM Female,1,"SEEBOHM, Emily","DI RADO, Maya",FALSE,FALSE,FALSE
+Women 200 Backstroke LCM Female,2,"HOSSZU, Katinka","HOSSZU, Katinka",,TRUE,TRUE
+Women 200 Backstroke LCM Female,3,"USTINOVA, Daria K","CALDWELL, Hilary",,FALSE,FALSE
+Women 200 Backstroke LCM Female,4,"FRANKLIN, Missy",,100,33.33333333,33.33333333
+Women 200 Backstroke LCM Female,5,"HOCKING, Belinda",,,,
+Women 200 Backstroke LCM Female,6,"WILSON, Madison",,,,
+Women 200 Backstroke LCM Female,7,"DI RADO, Maya",,,,
+Women 200 Backstroke LCM Female,8,"CALDWELL, Hilary",,,,
+Women 200 Breaststroke LCM Female,1,"KANETO, Rie","KANETO, Rie",TRUE,TRUE,TRUE
+Women 200 Breaststroke LCM Female,2,"PEDERSEN, Rikke","EFIMOVA, Yuliya",,FALSE,FALSE
+Women 200 Breaststroke LCM Female,3,"WATANABE, Kanako","SHIN, Jinglin",,FALSE,FALSE
+Women 200 Breaststroke LCM Female,4,"GUNES, Viktoria",,0,33.33333333,33.33333333
+Women 200 Breaststroke LCM Female,5,"MCKEOWN, Taylor",,,,
+Women 200 Breaststroke LCM Female,6,"EFIMOVA, Yuliya",,,,
+Women 200 Breaststroke LCM Female,7,"SUMRALL, Micah",,,,
+Women 200 Breaststroke LCM Female,8,"VALL MONTERO, Jessica",,,,
+Women 100 Freestyle LCM Female,1,"CAMPBELL, Cate","OLEKSIAK, Penny",FALSE,FALSE,FALSE
+Women 100 Freestyle LCM Female,2,"SJOESTROEM, Sarah","MANUEL, Simone",,FALSE,FALSE
+Women 100 Freestyle LCM Female,3,"CAMPBELL, Bronte","SJOESTROEM, Sarah",,TRUE,FALSE
+Women 100 Freestyle LCM Female,4,"HEEMSKERK, Femke",,100,33.33333333,0
+Women 100 Freestyle LCM Female,5,"KROMOWIDJOJO, Ranomi",,,,
+Women 100 Freestyle LCM Female,6,"MCKEON, Emma",,,,
+Women 100 Freestyle LCM Female,7,"MANUEL, Simone",,,,
+Women 100 Freestyle LCM Female,8,"OLEKSIAK, Penny",,,,
+Men 100 Butterfly LCM Male,1,"LE CLOS, Chad","SCHOOLING, Joseph",FALSE,FALSE,FALSE
+Men 100 Butterfly LCM Male,2,"SHIELDS, Tom","LE CLOS, Chad",,TRUE,FALSE
+Men 100 Butterfly LCM Male,3,"PHELPS, Michael","PHELPS, Michael",,TRUE,TRUE
+Men 100 Butterfly LCM Male,4,"CSEH, Laszlo",,100,33.33333333,33.33333333
+Men 100 Butterfly LCM Male,5,"CZERNIAK, Konrad",,,,
+Men 100 Butterfly LCM Male,6,"LI, Zhuhao",,,,
+Men 100 Butterfly LCM Male,7,"SCHOOLING, Joseph",,,,
+Men 100 Butterfly LCM Male,8,"METELLA, Mehdy",,,,
+Women 200 Medley LCM Female,1,"HOSSZU, Katinka","HOSSZU, Katinka",TRUE,TRUE,TRUE
+Women 200 Medley LCM Female,2,"O'CONNOR, Siobhan","O'CONNOR, Siobhan",,TRUE,TRUE
+Women 200 Medley LCM Female,3,"DI RADO, Maya","DI RADO, Maya",,TRUE,TRUE
+Women 200 Medley LCM Female,4,"WATANABE, Kanako",,0,100,100
+Women 200 Medley LCM Female,5,"MARGALIS, Melanie",,,,
+Women 200 Medley LCM Female,6,"LEVERENZ, Caitlin",,,,
+Women 200 Medley LCM Female,7,"YE, Shiwen",,,,
+Women 200 Medley LCM Female,8,"PICKREM, Sydney",,,,
+Men 100 Backstroke LCM Male,1,"LARKIN, Mitchell","MURPHY, Ryan",FALSE,FALSE,FALSE
+Men 100 Backstroke LCM Male,2,"PLUMMER, David","XU, Jiayu",,FALSE,FALSE
+Men 100 Backstroke LCM Male,3,"GREVERS, Matt","PLUMMER, David",,TRUE,FALSE
+Men 100 Backstroke LCM Male,4,"MURPHY, Ryan",,100,33.33333333,0
+Men 100 Backstroke LCM Male,5,"IRIE, Ryosuke",,,,
+Men 100 Backstroke LCM Male,6,"LACOURT, Camille",,,,
+Men 100 Backstroke LCM Male,7,"XU, Jiayu",,,,
+Men 100 Backstroke LCM Male,8,"WALKER-HEBBORN, Chris",,,,
+Men 100 Freestyle LCM Male,1,"MCEVOY, Cameron","CHALMERS, Kyle",FALSE,FALSE,FALSE
+Men 100 Freestyle LCM Male,2,"MAGNUSSEN, James","TIMMERS, Pieter",,FALSE,FALSE
+Men 100 Freestyle LCM Male,3,"ADRIAN, Nathan","ADRIAN, Nathan",,TRUE,TRUE
+Men 100 Freestyle LCM Male,4,"NING, Zetao",,100,33.33333333,33.33333333
+Men 100 Freestyle LCM Male,5,"CONDORELLI, Santo",,,,
+Men 100 Freestyle LCM Male,6,"DOTTO, Luca",,,,
+Men 100 Freestyle LCM Male,7,"MOROZOV, Vladimir",,,,
+Men 100 Freestyle LCM Male,8,"GRECHIN, Andrey",,,,
+Men 200 Breaststroke LCM Male,1,"KOCH, Marco","BALANDIN, Dmitriy",FALSE,FALSE,FALSE
+Men 200 Breaststroke LCM Male,2,"KOSEKI, Yasuhiro","PRENOT, Josh",,FALSE,FALSE
+Men 200 Breaststroke LCM Male,3,"MURDOCH, Ross","CHUPKOV, Anton",,FALSE,FALSE
+Men 200 Breaststroke LCM Male,4,"CORDES, Kevin",,100,0,0
+Men 200 Breaststroke LCM Male,5,"PRENOT, Josh",,,,
+Men 200 Breaststroke LCM Male,6,"WILLIS, Andrew",,,,
+Men 200 Breaststroke LCM Male,7,"GYURTA, Daniel",,,,
+Men 200 Breaststroke LCM Male,8,"CHUPKOV, Anton",,,,
+Women 400 Freestyle LCM Female,1,"LEDECKY, Katie","LEDECKY, Katie",TRUE,TRUE,TRUE
+Women 400 Freestyle LCM Female,2,"SMITH, Leah","CARLIN, Jaz",,TRUE,FALSE
+Women 400 Freestyle LCM Female,3,"CARLIN, Jaz","SMITH, Leah",,TRUE,FALSE
+Women 400 Freestyle LCM Female,4,"ASHWOOD, Jessica",,0,100,33.33333333
+Women 400 Freestyle LCM Female,5,"BOYLE, Lauren",,,,
+Women 400 Freestyle LCM Female,6,"BALMY, Coralie",,,,
+Women 400 Freestyle LCM Female,7,"VAN ROUWENDAAL, Sharon",,,,
+Women 400 Freestyle LCM Female,8,"HOSSZU, Katinka",,,,
+Women 400 Medley LCM Female,1,"HOSSZU, Katinka","HOSSZU, Katinka",TRUE,TRUE,TRUE
+Women 400 Medley LCM Female,2,"MILEY, Hannah","DI RADO, Maya",,FALSE,FALSE
+Women 400 Medley LCM Female,3,"BEISEL, Elizabeth","BELMONTE GARCIA, Mireia",,FALSE,FALSE
+Women 400 Medley LCM Female,4,"WILLMOTT, Aimee",,0,33.33333333,33.33333333
+Women 400 Medley LCM Female,5,"DI RADO, Maya",,,,
+Women 400 Medley LCM Female,6,"SHIMIZU, Sakiko",,,,
+Women 400 Medley LCM Female,7,"BELMONTE GARCIA, Mireia",,,,
+Women 400 Medley LCM Female,8,"OVERHOLT, Emily",,,,
+Men 50 Freestyle LCM Male,1,"MANAUDOU, Florent","ERVIN, Anthony",FALSE,FALSE,FALSE
+Men 50 Freestyle LCM Male,2,"FRATUS, Bruno","MANAUDOU, Florent",,TRUE,FALSE
+Men 50 Freestyle LCM Male,3,"ADRIAN, Nathan","ADRIAN, Nathan",,TRUE,TRUE
+Men 50 Freestyle LCM Male,4,"ERVIN, Anthony",,100,66.66666667,33.33333333
+Men 50 Freestyle LCM Male,5,"MOROZOV, Vladimir",,,,
+Men 50 Freestyle LCM Male,6,"GOVOROV, Andrii",,,,
+Men 50 Freestyle LCM Male,7,"MCEVOY, Cameron",,,,
+Men 50 Freestyle LCM Male,8,"PROUD, Benjamin",,,,
+Men 200 Butterfly LCM Male,1,"CSEH, Laszlo","PHELPS, Michael",FALSE,FALSE,FALSE
+Men 200 Butterfly LCM Male,2,"SETO, Daiya","SAKAI, Masato",,FALSE,FALSE
+Men 200 Butterfly LCM Male,3,"LE CLOS, Chad","KENDERESI, Tamas",,FALSE,FALSE
+Men 200 Butterfly LCM Male,4,"SAKAI, Masato",,100,0,0
+Men 200 Butterfly LCM Male,5,"BROMER, Viktor B",,,,
+Men 200 Butterfly LCM Male,6,"PHELPS, Michael",,,,
+Men 200 Butterfly LCM Male,7,"KENDERESI, Tamas",,,,
+Men 200 Butterfly LCM Male,8,"DE DEUS, Leonardo",,,,
+Men 200 Backstroke LCM Male,1,"LARKIN, Mitchell","MURPHY, Ryan",FALSE,FALSE,FALSE
+Men 200 Backstroke LCM Male,2,"IRIE, Ryosuke","LARKIN, Mitchell",,TRUE,FALSE
+Men 200 Backstroke LCM Male,3,"RYLOV, Evgeny","RYLOV, Evgeny",,TRUE,TRUE
+Men 200 Backstroke LCM Male,4,"MURPHY, Ryan",,100,66.66666667,33.33333333
+Men 200 Backstroke LCM Male,5,"CLARY, Tyler",,,,
+Men 200 Backstroke LCM Male,6,"KAWECKI, Radoslaw",,,,
+Men 200 Backstroke LCM Male,7,"XU, Jiayu",,,,
+Men 200 Backstroke LCM Male,8,"PEBLEY, Jacob",,,,
+Women 800 Freestyle LCM Female,1,"LEDECKY, Katie","LEDECKY, Katie",TRUE,TRUE,TRUE
+Women 800 Freestyle LCM Female,2,"CARLIN, Jaz","CARLIN, Jaz",,TRUE,TRUE
+Women 800 Freestyle LCM Female,3,"ASHWOOD, Jessica","KAPAS, Boglarka",,FALSE,FALSE
+Women 800 Freestyle LCM Female,4,"BOYLE, Lauren",,0,66.66666667,66.66666667
+Women 800 Freestyle LCM Female,5,"KAPAS, Boglarka",,,,
+Women 800 Freestyle LCM Female,6,"FRIIS, Lotte",,,,
+Women 800 Freestyle LCM Female,7,"MANN, Becca",,,,
+Women 800 Freestyle LCM Female,8,"SMITH, Leah",,,,
+Women 200 Butterfly LCM Female,1,"HENTKE, Franziska","BELMONTE GARCIA, Mireia",FALSE,FALSE,FALSE
+Women 200 Butterfly LCM Female,2,"HOSHI, Natsumi","GROVES, Madeline",,FALSE,FALSE
+Women 200 Butterfly LCM Female,3,"ADAMS, Cammile","HOSHI, Natsumi",,TRUE,FALSE
+Women 200 Butterfly LCM Female,4,"GROVES, Madeline",,100,33.33333333,0
+Women 200 Butterfly LCM Female,5,"BELMONTE GARCIA, Mireia",,,,
+Women 200 Butterfly LCM Female,6,"SZILAGYI, Liliana",,,,
+Women 200 Butterfly LCM Female,7,"JAKABOS, Zsuzsanna",,,,
+Women 200 Butterfly LCM Female,8,"ZHANG, Yufei",,,,
+Men 400 Freestyle LCM Male,1,"GUY, James","HORTON, Mack",FALSE,TRUE,FALSE
+Men 400 Freestyle LCM Male,2,"HORTON, Mack","SUN, Yang",,FALSE,FALSE
+Men 400 Freestyle LCM Male,3,"MCKEON, David","DETTI, Gabriele",,FALSE,FALSE
+Men 400 Freestyle LCM Male,4,"DETTI, Gabriele",,100,33.33333333,0
+Men 400 Freestyle LCM Male,5,"JAEGER, Connor",,,,
+Men 400 Freestyle LCM Male,6,"SUN, Yang",,,,
+Men 400 Freestyle LCM Male,7,"COCHRANE, Ryan",,,,
+Men 400 Freestyle LCM Male,8,"PARK, Taehwan",,,,
+Women 100 Backstroke LCM Female,1,"SEEBOHM, Emily","HOSSZU, Katinka",FALSE,FALSE,FALSE
+Women 100 Backstroke LCM Female,2,"NIELSEN, Mie Oe","BAKER, Kathleen",,FALSE,FALSE
+Women 100 Backstroke LCM Female,3,"WILSON, Madison","MASSE, Kylie",,FALSE,FALSE
+Women 100 Backstroke LCM Female,4,"HOSSZU, Katinka",,100,0,0
+Women 100 Backstroke LCM Female,5,"ATHERTON, Minna",,,,
+Women 100 Backstroke LCM Female,6,"MASSE, Kylie",,,,
+Women 100 Backstroke LCM Female,7,"FU, Yuanhui",,,,
+Women 100 Backstroke LCM Female,8,"FRANKLIN, Missy",,,,
+Women 100 Butterfly LCM Female,1,"SJOESTROEM, Sarah","SJOESTROEM, Sarah",TRUE,TRUE,TRUE
+Women 100 Butterfly LCM Female,2,"OTTESEN, Jeanette","OLEKSIAK, Penny",,FALSE,FALSE
+Women 100 Butterfly LCM Female,3,"DAHLIA, Kelsi","VOLLMER, Dana",,FALSE,FALSE
+Women 100 Butterfly LCM Female,4,"MCKEON, Emma",,0,33.33333333,33.33333333
+Women 100 Butterfly LCM Female,5,"VOLLMER, Dana",,,,
+Women 100 Butterfly LCM Female,6,"CHEN, Xinyi",,,,
+Women 100 Butterfly LCM Female,7,"DEKKER, Inge",,,,
+Women 100 Butterfly LCM Female,8,"SAVARD, Katerine",,,,
+Men 400 Medley LCM Male,1,"HAGINO, Kosuke","HAGINO, Kosuke",TRUE,TRUE,TRUE
+Men 400 Medley LCM Male,2,"SETO, Daiya","KALISZ, Chase",,TRUE,FALSE
+Men 400 Medley LCM Male,3,"KALISZ, Chase","SETO, Daiya",,TRUE,FALSE
+Men 400 Medley LCM Male,4,"VERRASZTO, David",,0,100,33.33333333
+Men 400 Medley LCM Male,5,"CLARY, Tyler",,,,
+Men 400 Medley LCM Male,6,"FRASER-HOLMES, Thomas",,,,
+Men 400 Medley LCM Male,7,"FUJIMORI, Takeharu",,,,
+Men 400 Medley LCM Male,8,"LITHERLAND, Jay",,,,
+Men 1500 Freestyle LCM Male,1,"PALTRINIERI, Gregorio","PALTRINIERI, Gregorio",TRUE,TRUE,TRUE
+Men 1500 Freestyle LCM Male,2,"HORTON, Mack","JAEGER, Connor",,TRUE,FALSE
+Men 1500 Freestyle LCM Male,3,"JAEGER, Connor","DETTI, Gabriele",,FALSE,FALSE
+Men 1500 Freestyle LCM Male,4,"DETTI, Gabriele",,0,66.66666667,33.33333333
+Men 1500 Freestyle LCM Male,5,"COCHRANE, Ryan",,,,
+Men 1500 Freestyle LCM Male,6,"WILIMOVSKY, Jordan",,,,
+Men 1500 Freestyle LCM Male,7,"ROMANCHUK, Mykhailo",,,,
+Men 1500 Freestyle LCM Male,8,"MILNE, Stephen",,,,
+Women 100 Breaststroke LCM Female,1,"MEILUTYTE, Ruta","KING, Lilly",FALSE,TRUE,FALSE
+Women 100 Breaststroke LCM Female,2,"EFIMOVA, Yuliya","EFIMOVA, Yuliya",,TRUE,TRUE
+Women 100 Breaststroke LCM Female,3,"KING, Lilly","MEILI, Katie",,FALSE,FALSE
+Women 100 Breaststroke LCM Female,4,"MEILI, Katie",,100,66.66666667,33.33333333
+Women 100 Breaststroke LCM Female,5,"WATANABE, Kanako",,,,
+Women 100 Breaststroke LCM Female,6,"ATKINSON, Alia",,,,
+Women 100 Breaststroke LCM Female,7,"HANNIS, Molly",,,,
+Women 100 Breaststroke LCM Female,8,"PEDERSEN, Rikke",,,,
+Men 200 Freestyle LCM Male,1,"SUN, Yang","SUN, Yang",TRUE,TRUE,TRUE
+Men 200 Freestyle LCM Male,2,"GUY, James","LE CLOS, Chad",,FALSE,FALSE
+Men 200 Freestyle LCM Male,3,"BIEDERMANN, Paul","DWYER, Conor",,FALSE,FALSE
+Men 200 Freestyle LCM Male,4,"HAGINO, Kosuke",,0,33.33333333,33.33333333
+Men 200 Freestyle LCM Male,5,"MCEVOY, Cameron",,,,
+Men 200 Freestyle LCM Male,6,"DWYER, Conor",,,,
+Men 200 Freestyle LCM Male,7,"VERSCHUREN, Sebastiaan",,,,
+Men 200 Freestyle LCM Male,8,"FRASER-HOLMES, Thomas",,,,
+,,,TOTAL,11,37,22
+,,,PORCENTAJE TOTAL,42.30769231,47.43589744,28.20512821
